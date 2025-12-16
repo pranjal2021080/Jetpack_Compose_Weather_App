@@ -1,6 +1,4 @@
-Below is an **optimized, recruiter-friendly README.md** with **badges added (Kotlin, Android, Jetpack Compose)** and wording refined to highlight **impact, skills, and modern practices**.
 
-You can **replace your current README.md with this** or copy only the badge + intro sections if you prefer.
 
 ---
 
@@ -107,16 +105,3 @@ It reflects the skills required for **Android Developer / Mobile Engineer** role
 Additional documentation explaining architecture and design decisions is included in the repository.
 
 ---
-
-### ✅ Tip (Optional)
-
-If you want **maximum recruiter impact**, pin this repository on your GitHub profile and add this line to your profile bio:
-
-> *Android developer | Jetpack Compose | Kotlin | Clean Architecture*
-
-If you want, I can also:
-
-* Add **screenshots/GIF placement optimization**
-* Add a **“Skills Demonstrated”** section
-* Create a **one-page project summary** for resumes
-
